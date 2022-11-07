@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+weeewewew
+=======
+weeewewew
+>>>>>>> Konsola Push
